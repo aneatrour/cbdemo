@@ -14,6 +14,13 @@ credits: true
 
 ## About the Collection
 
+This is my collection, here is some text I am using to modify the about page
+
+about
+about
+about
+about
+
 This site is generated using [CollectionBuilder-GH](https://collectionbuilding.github.io/gh/), a project to create a free and simple digital collection using [GitHub Pages](https://pages.github.com/) from: 
 
 - a CSV of collection metadata
